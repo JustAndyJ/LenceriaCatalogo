@@ -1,5 +1,5 @@
 const products = [
-    { id: "6129", type: "body-sexy", price: 25, name: "Body Sexy", image: "imagenes/BodySexy/6129.png" },
+    { id: "6129", type: "body-sexy", price: 100, name: "Body Sexy", image: "imagenes/BodySexy/6129.png" },
     { id: "6154", type: "body-sexy", price: 30, name: "Body Sexy", image: "imagenes/BodySexy/6154.png" },
     { id: "61116", type: "body-sexy", price: 30, name: "Body Sexy", image: "imagenes/BodySexy/61116.png" },
     { id: "6188", type: "body-sexy", price: 25, name: "Body Sexy", image: "imagenes/BodySexy/6188.png" },
